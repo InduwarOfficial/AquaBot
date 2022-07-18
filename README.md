@@ -8,7 +8,7 @@
 
 ---------------------------------   
 
- ###  Developer :- Induwata-official 
+ ###  Developer :- Induwara-official 
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
